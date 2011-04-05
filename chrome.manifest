@@ -1,0 +1,2 @@
+content pinfresh  chrome/content/
+overlay chrome://browser/content/browser.xul chrome://pinfresh/content/pinfresh.xul
